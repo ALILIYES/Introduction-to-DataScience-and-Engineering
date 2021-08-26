@@ -27,7 +27,6 @@ class SingleLink(object):
         while cur != None:
             print(str(cur.value)+" ")
             cur = cur.next
-
     def add(self,value) -> None:
         #链表头部增加节点
         cur = Node(value,self._head)
