@@ -30,6 +30,7 @@ def quicksort(list,l,r):
     quicksort(list,j+1,r)
 
 def mergesort(list,tmp,l,r):
+    '''归并排序'''
     if l>=r:return
     mid = l+r>>1
     mergesort(list,tmp,l,mid)
