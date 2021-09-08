@@ -1,9 +1,12 @@
 {
     "cSpell.words": [
+        "cmap",
+        "contourf",
         "incircle",
         "numpy",
         "numwins",
         "piguess",
+        "pyplot",
         "sdev"
     ],
     "cSpell.ignoreWords": [
