@@ -1,0 +1,1 @@
+select AVG(age) from user
